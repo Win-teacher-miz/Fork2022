@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Gt1で１行目追加
-=======
-sasasasa
-
-Git2で２行目追加
->>>>>>> origin/main
+全消去
